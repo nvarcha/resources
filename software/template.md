@@ -8,10 +8,10 @@ title: "Your Project Name"
 # PLEASE COPY THE DOCUMENT AND START YOUR PROPOSAL ON YOUR COPY 
 | | |
 |-|-|
-| Proposal Stage |      |
+| Proposal Stage |   Draft   |
 | Tags           |      |
-| Created Date   |      |
-| Lead           |      |
+| Created Date   |   3/16/2020   |
+| Lead           |    Nick Varchavsky  |
 | Slack Channel  |      |
 
 ## 📃 Idea in brief: Question to be resolved and why
